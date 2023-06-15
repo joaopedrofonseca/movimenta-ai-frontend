@@ -1,14 +1,15 @@
-import { HomeScreen, Dashboard } from "../components/HomeScreen";
-import NavBar from "../components/NavBar";
+import { HomeScreen, Dashboard } from "../styles/HomeScreen";
+import Footer from "../components/Footer";
+import Logout from "../components/Logout";
 
 export default function Home() {
     return (
         <>
             <HomeScreen>
                 <Dashboard>
-                <NavBar>
-                    <button></button>
-                </NavBar>
+                    <h1>Seu Perfil: Em breve!</h1>
+                    <Logout />
+                    <Footer />
                 </Dashboard>
             </HomeScreen>
 

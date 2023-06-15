@@ -1,4 +1,4 @@
-import Screen from "../components/Screen";
+import Screen from "../styles/Screen";
 import { Link } from "react-router-dom";
 
 
