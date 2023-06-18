@@ -16,8 +16,8 @@ export const HomeScreen = styled.div`
 
 export const Dashboard = styled.div`
         background-color: white;
-        width: 75vw;
-        height: 85vh;
+        width: 50vw;
+        height: 90vh;
         min-width: 500px;
         box-sizing: border-box;
         border-radius: 5px;
